@@ -10,4 +10,8 @@
         android:id="@+id/menu_settings"
         android:title="@string/menu_settings" />
 
+    <item
+        android:id="@+id/menu_git"
+        android:title="@string/menu_git_clone" />
+
 </menu>

@@ -129,6 +129,9 @@ public class ProjectManagerFragment extends Fragment {
                 startActivity(intent);
                 return true;
             }
+            if (id == R.id.menu_git) {
+                return true;
+            }
 
             return true;
         });
